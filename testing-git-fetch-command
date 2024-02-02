@@ -1,0 +1,4 @@
+Git Fetch:
+The git fetch command is used to retrieve new branches, tags, and commits from a remote repository, but it does not automatically merge or apply those changes to your working branch. It's useful for fetching remote changes without immediately integrating them into your local codebase. This can be particularly handy when you want to review changes before merging them.
+
+git fetch <remote_name>
